@@ -1,8 +1,8 @@
-#include "Person.h"
+#include "Student.h"
 
 
 int main() {
-	Person Test;
+	Student Test;
 
 	return 0;
 }

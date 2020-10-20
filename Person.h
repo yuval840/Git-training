@@ -1,9 +1,10 @@
+using namespace std;
+#include <string>
 #include <iostream>
 #ifndef Person_H
-#define Person_h
+#define Person_H
 #define MAX_LENGTH 10
 
-using namespace std;
 
 class Person {
 	string name;
